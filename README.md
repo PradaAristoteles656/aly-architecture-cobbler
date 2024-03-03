@@ -1,2 +1,1 @@
-# aly-architecture-cobbler
 Upload blog posts and files to the HubSpot API, using the hubspot-api-python package.
